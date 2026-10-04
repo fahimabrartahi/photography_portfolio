@@ -7,7 +7,7 @@ That's why I build this website.
 This website uses html, css and js.
 
 It has 
-  a gallery section to show off some photos
-  a journeys section to arrange photos based on dates and trips
-  a little bit about me
-  a section to contact me
+  a gallery section to show off some photos,
+  a journeys section to arrange photos based on dates and trips,
+  a little bit about me,
+  a section to contact me.
